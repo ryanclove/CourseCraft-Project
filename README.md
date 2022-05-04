@@ -7,7 +7,7 @@ Professor: Lily Chang
 
 ## Important
 
-Provided on the main page is a pdf detailing the installation of the environment/conda. Do this first
+Provided on the main page is a pdf titled "Conda 101" detailing the installation of the environment/conda. Do this first
 
 Also Provided is a pdf with links to our demonstration videos from the conclusion of each sprint (download the pdf)
 
