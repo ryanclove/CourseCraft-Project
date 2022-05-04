@@ -14,3 +14,7 @@ Also Provided is a pdf with links to our demonstration videos from the conclusio
 Assignments directory contains files such as bug reports, an SRS, code inspection, system architecture, etc.
 
 CourseCraft directory is the actual project. Personally, I ran the program using Windows OS and the ccenv provided. I edited and executed the program on PyCharm
+
+## MariaDB and Virtual machine
+
+We were provided a virtual machine to host our MariaDB. In the event this machine closes or loses permission access, this project may lose its full-stack functionality
