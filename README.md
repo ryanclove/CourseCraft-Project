@@ -1,6 +1,10 @@
 # CourseCraft-Project
 Software Project developed for Rutgers CS431 Software Engineering course
 
+CS431 Software Engineering Spring 2022 
+
+Professor: Lily Chang  
+
 ## Important
 
 Provided on the main page is a pdf detailing the installation of the environment/conda. Do this first
