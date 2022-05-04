@@ -13,4 +13,4 @@ Also Provided is a pdf with links to our demonstration videos from the conclusio
 
 Assignments directory contains files such as bug reports, an SRS, code inspection, system architecture, etc.
 
-CourseCraft file is the actual project. Personally, I ran the program using Windows OS and the ccenv provided. I edited and executed the program on PyCharm
+CourseCraft directory is the actual project. Personally, I ran the program using Windows OS and the ccenv provided. I edited and executed the program on PyCharm
