@@ -14,7 +14,8 @@ Packages to donwload to the interpreter are:
 * pymysql
 * sqlalchemy
 * pytest  
-(This can be found in PyCharm by entering the CourseCraft folder > File > Settings > Project: CourseCraft > Python Interpreter > (make sure you have the correct one at the top bar which for me was Python 3.9 ccenv_windows > click the "+" button > search the packages in the search bar and hit "Install Package" > click Apply > Click OK
+
+(This can be done in PyCharm by entering the CourseCraft folder > File > Settings > Project: CourseCraft > Python Interpreter > (make sure you have the correct one at the top bar which for me was Python 3.9 ccenv_windows > click the "+" button > search the packages in the search bar and hit "Install Package" > click Apply > Click OK
 
 ## Supplimental Files/Resources/Information
 
