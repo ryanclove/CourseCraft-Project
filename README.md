@@ -1,4 +1,4 @@
-# CourseCraft-Project
+# CourseCraft
 Software Project developed for Rutgers CS431 Software Engineering course
 
 CS431 Software Engineering Spring 2022 
