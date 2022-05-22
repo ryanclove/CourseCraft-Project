@@ -9,7 +9,7 @@ Professor: Lily Chang
 
 Provided on the main page is a pdf titled "Conda 101" detailing the installation of the environment/conda. Do this first
 
-Packages to donwload to the interpreter are:
+Packages to download to the interpreter are:
 * dash
 * pymysql
 * sqlalchemy
